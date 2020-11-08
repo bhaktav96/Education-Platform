@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<head>
+	<style type="text/css">
+
+  .div1{
+  	
+  	background-size: 100px;
+  	margin:20 px;
+  	float:left;
+ 
+  }
+  .small{
+  	background: url("8.jpg");
+  	background-size: 100% 100%;
+  	background-repeat: no-repeat;
+
+  }
+  .img{
+    float:left;
+    z-index:7;
+  }
+  .s{
+  	float:right;
+  }
+
+  #di{
+  	
+  	background-size: 100% 100%;
+  	background-repeat: no-repeat;
+  	margin:20 px;
+ 
+  }
+  
+  pre{
+  	   font-size: 20px;
+  }
+
+  #image{
+  	background: url("w.jpg");
+  	background-size: 100% 100%;
+  	background-repeat: no-repeat;
+ 
+  }
+
+  #image1{
+  	background: url("l.jpg");
+  	background-size: 100% 100%;
+  	background-repeat: no-repeat;
+ 
+  }
+  #image2{
+  	background: url("15.jpg");
+  	background-size: 100% 100%;
+  	background-repeat: no-repeat;
+ 
+  }
+   #image3{
+    background: url("16.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+ 
+  }
+
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #3e8e41;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    float:right;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown a:hover {background-color: #f1f1f1}
+
+.show {display:block;}
+.hello{
+  z-index: 7;
+}
+
+.div2{
+    margin-right: 0;
+    padding: 0;
+
+}
+
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image:url(7.jpg); 
+}
+
+.li {
+    float: right;
+}
+
+.a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    z-index: 7;
+}
+
+.a:hover {
+    background-color: yellow;
+}
+.ul1{
+  list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image:url(7.jpg);
+
+}
+.li1{
+
+
+}
+
+  </style>
+  </head>
+  </html>
